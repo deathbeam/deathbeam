@@ -1,6 +1,6 @@
 | :bar_chart: Stats |
 | - |
-| ![](https://github-readme-stats.vercel.app/api?username=deathbeam&theme=radical&hide_border=true&include_all_commits=true&count_private=false&card_width=1012px) |
+| ![](https://github-readme-stats.vercel.app/api?username=deathbeam&theme=radical&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=percentile&hide_title=true&card_width=1012px) |
 
 | :star: Contributions | :link: Languages |
 | - | - |
