@@ -4,7 +4,7 @@
 
 | :star: Contributions | :link: Languages |
 | - | - |
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=deathbeam&theme=nord&hide_border=true&card_height=254px) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deathbeam&theme=nord&hide_border=true&include_all_commits=true&count_private=false&hide_title=true&card_width=500px) |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=deathbeam&theme=nord&hide_border=true&card_height=250px&card_width=500px) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deathbeam&theme=nord&hide_border=true&include_all_commits=true&count_private=false&hide_title=true&card_height=250px&card_width=500px) |
 
 | :trophy: Trophies |
 | - |
