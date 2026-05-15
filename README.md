@@ -1,11 +1,24 @@
-| :bar_chart: Stats |
-| - |
-| ![](https://github-readme-stats.vercel.app/api?username=deathbeam&theme=nord&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=percentile&hide_title=true&card_width=1000px) |
+```bash
+                  -`                     deathbeam@archlinux
+                 .o+`                    -------------------
+                `ooo/                    OS: Tomas Slusny
+               `+oooo:                   Host: Slovakia
+              `+oooooo:                  Kernel: Human v30.0
+             -+oooooo+:                  Uptime: 10,957 days, 6 hours, 36 mins
+           `/:-:++oooo+:                 Shell: zsh 5.9
+          `/++++/+++++++:                Terminal: tmux 3.6a
+         `/++++++++++++++:               WM: Neovim
+        `/+++ooooooooooooo/`             Local IP (wlan0): slusnucky@gmail.com
+       ./ooosssso++osssssso+`            Locale: sk_SK.UTF-8
+      .oossssso-````/ossssss+`           
+     -osssssso.      :ssssssso.          
+    :osssssss/        osssso+++.         
+   /ossssssss/        +ssssooo/-         
+ `/ossssso+/:-        -:/+osssso+-      
+`+sso+:-`                 `.-/+oso:     
+`++:.                           `-/+/   
+.`                                 `/   
+```
 
-| :link: Languages |
-| - |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=deathbeam&theme=nord&hide_border=true&include_all_commits=true&count_private=false&hide_title=true&card_width=1000px) |
 
-| :trophy: Trophies |
-| - |
-| ![](https://github-profile-trophy.vercel.app/?username=deathbeam&theme=nord&no-frame=true&margin-w=4&margin-h=4) |
+![](https://github-profile-trophy.vercel.app/?username=deathbeam&theme=nord&no-frame=true&margin-w=20&margin-h=20)
